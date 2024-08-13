@@ -41,10 +41,10 @@ const ProfileBox = () => {
 
             <div className="p-6 text-center flex justify-center items-center">
                 <a
-                    href="https://linkz.vercel.app"
+                    href="https://mamshad-profile.vercel.app"
                     className="text-black/70   transition-colors duration-300  hover:text-blue-400 hover:underline flex items-center"
                 >
-                    <span>linkz.vercel.app</span>
+                    <span>mamshad-profile.vercel.app</span>
                     <TbExternalLink className="ml-2" />
                 </a>
             </div>
